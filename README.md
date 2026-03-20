@@ -73,4 +73,4 @@ The dataset is accessed directly from this repository and used in the Colab note
 
 - GitHub repository contains code and dataset
 - Colab notebook provided for execution
-- Model demonstration will be shown in person
+  
